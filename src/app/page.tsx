@@ -156,10 +156,9 @@ export default function Home() {
                                                               rel="noopener noreferrer"
                                                             >
                                                             GitHub
-                                              </a>
-                                  </p>
+                                              </a>                                  </p>
                         </div>
                 </footer>
-          </>>
+          </>
         );
-}</></svg>
+      }
