@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "Alignment Probe",
+    "description": "A toolkit for red-teaming language models by automatically generating adversarial prompts and measuring alignment degradation across safety-critical dimensions.",
+    "team": ["Maya Chen", "Luca Rossi", "Priya Sharma"],
+    "tags": ["Red Teaming", "Alignment", "LLMs"],
+    "repoUrl": "https://github.com/lisa-ai-safety/alignment-probe",
+    "demoUrl": "https://alignment-probe.vercel.app",
+    "cohort": "Spring 2026"
+  },
+  {
+    "id": "2",
+    "title": "SafeGuard Eval",
+    "description": "An evaluation framework that benchmarks content moderation systems against a curated dataset of edge cases spanning 12 harm categories.",
+    "team": ["Jordan Lee", "Aisha Patel"],
+    "tags": ["Evaluation", "Content Safety", "Benchmarks"],
+    "repoUrl": "https://github.com/lisa-ai-safety/safeguard-eval",
+    "demoUrl": null,
+    "cohort": "Spring 2026"
+  },
+  {
+    "id": "3",
+    "title": "Interpretability Lens",
+    "description": "Interactive visualization tool for exploring neuron activations and attention patterns in transformer models, designed to make mechanistic interpretability accessible to researchers.",
+    "team": ["Sam Okafor", "Elise Dubois", "Kai Nakamura"],
+    "tags": ["Interpretability", "Visualization", "Transformers"],
+    "repoUrl": "https://github.com/lisa-ai-safety/interp-lens",
+    "demoUrl": "https://interp-lens.vercel.app",
+    "cohort": "Spring 2026"
+  },
+  {
+    "id": "4",
+    "title": "Bias Compass",
+    "description": "A diagnostic tool that measures and visualizes demographic bias in text generation models across multiple axes including gender, ethnicity, and socioeconomic status.",
+    "team": ["Riley Thompson", "Fatima Al-Rashid"],
+    "tags": ["Bias", "Fairness", "Measurement"],
+    "repoUrl": "https://github.com/lisa-ai-safety/bias-compass",
+    "demoUrl": "https://bias-compass.vercel.app",
+    "cohort": "Winter 2026"
+  },
+  {
+    "id": "5",
+    "title": "Guardrails SDK",
+    "description": "A lightweight Python SDK for adding configurable safety guardrails to any LLM application, with built-in support for topic filtering, PII detection, and output validation.",
+    "team": ["Alex Rivera", "Nina Kowalski", "David Park"],
+    "tags": ["Guardrails", "SDK", "Deployment"],
+    "repoUrl": "https://github.com/lisa-ai-safety/guardrails-sdk",
+    "demoUrl": null,
+    "cohort": "Winter 2026"
+  },
+  {
+    "id": "6",
+    "title": "RLHF Monitor",
+    "description": "A monitoring dashboard that tracks reward model behavior during RLHF training, flagging reward hacking patterns and distributional shift in real time.",
+    "team": ["Chris Yamamoto", "Zara Ahmed"],
+    "tags": ["RLHF", "Monitoring", "Training"],
+    "repoUrl": "https://github.com/lisa-ai-safety/rlhf-monitor",
+    "demoUrl": "https://rlhf-monitor.vercel.app",
+    "cohort": "Winter 2026"
+  }
+]
