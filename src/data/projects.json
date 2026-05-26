@@ -1,62 +1,38 @@
 [
-  {
-    "id": "1",
-    "title": "Alignment Probe",
-    "description": "A toolkit for red-teaming language models by automatically generating adversarial prompts and measuring alignment degradation across safety-critical dimensions.",
-    "team": ["Maya Chen", "Luca Rossi", "Priya Sharma"],
-    "tags": ["Red Teaming", "Alignment", "LLMs"],
-    "repoUrl": "https://github.com/lisa-ai-safety/alignment-probe",
-    "demoUrl": "https://alignment-probe.vercel.app",
-    "cohort": "Spring 2026"
-  },
-  {
-    "id": "2",
-    "title": "SafeGuard Eval",
-    "description": "An evaluation framework that benchmarks content moderation systems against a curated dataset of edge cases spanning 12 harm categories.",
-    "team": ["Jordan Lee", "Aisha Patel"],
-    "tags": ["Evaluation", "Content Safety", "Benchmarks"],
-    "repoUrl": "https://github.com/lisa-ai-safety/safeguard-eval",
-    "demoUrl": null,
-    "cohort": "Spring 2026"
-  },
-  {
-    "id": "3",
-    "title": "Interpretability Lens",
-    "description": "Interactive visualization tool for exploring neuron activations and attention patterns in transformer models, designed to make mechanistic interpretability accessible to researchers.",
-    "team": ["Sam Okafor", "Elise Dubois", "Kai Nakamura"],
-    "tags": ["Interpretability", "Visualization", "Transformers"],
-    "repoUrl": "https://github.com/lisa-ai-safety/interp-lens",
-    "demoUrl": "https://interp-lens.vercel.app",
-    "cohort": "Spring 2026"
-  },
-  {
-    "id": "4",
-    "title": "Bias Compass",
-    "description": "A diagnostic tool that measures and visualizes demographic bias in text generation models across multiple axes including gender, ethnicity, and socioeconomic status.",
-    "team": ["Riley Thompson", "Fatima Al-Rashid"],
-    "tags": ["Bias", "Fairness", "Measurement"],
-    "repoUrl": "https://github.com/lisa-ai-safety/bias-compass",
-    "demoUrl": "https://bias-compass.vercel.app",
-    "cohort": "Winter 2026"
-  },
-  {
-    "id": "5",
-    "title": "Guardrails SDK",
-    "description": "A lightweight Python SDK for adding configurable safety guardrails to any LLM application, with built-in support for topic filtering, PII detection, and output validation.",
-    "team": ["Alex Rivera", "Nina Kowalski", "David Park"],
-    "tags": ["Guardrails", "SDK", "Deployment"],
-    "repoUrl": "https://github.com/lisa-ai-safety/guardrails-sdk",
-    "demoUrl": null,
-    "cohort": "Winter 2026"
-  },
-  {
-    "id": "6",
-    "title": "RLHF Monitor",
-    "description": "A monitoring dashboard that tracks reward model behavior during RLHF training, flagging reward hacking patterns and distributional shift in real time.",
-    "team": ["Chris Yamamoto", "Zara Ahmed"],
-    "tags": ["RLHF", "Monitoring", "Training"],
-    "repoUrl": "https://github.com/lisa-ai-safety/rlhf-monitor",
-    "demoUrl": "https://rlhf-monitor.vercel.app",
-    "cohort": "Winter 2026"
-  }
+    {
+          "id": "1",
+          "title": "Claude Code Skills for AI Safety",
+          "description": "Custom Claude Code skills designed to accelerate AI safety research workflows — from literature review automation to alignment benchmarking and red-teaming assistance.",
+          "team": ["Anonymous", "Anonymous", "Anonymous", "Anonymous"],
+          "tags": ["Claude Code", "AI Safety", "Developer Tools"],
+          "repoUrl": "https://github.com/lisa-ai-safety/claude-code-skills",
+          "demoUrl": "https://claude-code-skills.vercel.app"
+    },
+    {
+          "id": "2",
+          "title": "Automated Hiring Research Agent",
+          "description": "An AI-powered research agent that streamlines hiring for AI safety organisations by automatically sourcing, screening, and summarising candidate profiles against role-specific criteria.",
+          "team": ["Anonymous", "Anonymous", "Anonymous", "Anonymous"],
+          "tags": ["Agents", "Hiring", "Automation"],
+          "repoUrl": "https://github.com/lisa-ai-safety/hiring-agent",
+          "demoUrl": null
+    },
+    {
+          "id": "3",
+          "title": "EU AI Compliance Act Tracker",
+          "description": "A compliance monitoring tool that tracks EU AI Act requirements relevant to AI safety organisations, providing real-time regulatory updates and gap analysis dashboards.",
+          "team": ["Anonymous", "Anonymous", "Anonymous", "Anonymous"],
+          "tags": ["Compliance", "EU AI Act", "Policy"],
+          "repoUrl": "https://github.com/lisa-ai-safety/eu-ai-tracker",
+          "demoUrl": "https://eu-ai-tracker.vercel.app"
+    },
+    {
+          "id": "4",
+          "title": "Fieldbuilding Events: LISA Case Study",
+          "description": "A research-backed case study analysing LISA's approach to fieldbuilding through community events, with data-driven insights on engagement, retention, and ecosystem impact.",
+          "team": ["Anonymous", "Anonymous", "Anonymous"],
+          "tags": ["Fieldbuilding", "Research", "Community"],
+          "repoUrl": "https://github.com/lisa-ai-safety/fieldbuilding-study",
+          "demoUrl": null
+    }
 ]
