@@ -71,7 +71,7 @@ export default function Home() {
                         <div className="container">
                                   <h1>
                                               Still think that generalists can&apos;t build? See how we&apos;re
-                                              improving AI Safey Infrastructure - one project at a time.
+                                              improving AI Safety Infrastructure - one project at a time.
                                   </h1>
                         </div>
                 </section>
